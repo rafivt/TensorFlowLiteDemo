@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\bb8866ac1062db067683780c182395f3f2730b67\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\Administrator\.android\build-cache\7da244ea8be0d4becce2327539c64ade51108faa\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Administrator\.android\build-cache\7b80e9f7b79f37ac47ef1f08eb27d523f2bbfaac\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Administrator\.android\build-cache\79b026503e76329a905182380469bf60d3d100d4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Administrator\.android\build-cache\94adb223e2b1324d8756ff680343b0684b92f4f8\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Administrator\.android\build-cache\e9cc1cdb4a876cbcfafbf63398df679d56260ff8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Administrator\.android\build-cache\992d010b8cd6886770c888e8b9be498d802e86a6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Administrator\.android\build-cache\1e834a2cd82ebf12e6bc5cbbab80e144ff809710\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.android\build-cache\e1c31953a31a62214986facf0d7856b1b8c179c8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.android\build-cache\2fa77d5720533c981f1217b31fd2ae65303952b3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.android\build-cache\ccfff666410ffc9b94b58c6fa2db55cb2d6d33d3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\30c9d7900f3bf1e2b7c3c8da31f8eb114ee60d68\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.android\build-cache\33b8af215841792f2fcfead0f87262a77284a52f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\9295d8dde43be768f4414d66c4efef276a0a479a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Administrator\.android\build-cache\7da244ea8be0d4becce2327539c64ade51108faa\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:26:15-41
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\bb8866ac1062db067683780c182395f3f2730b67\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Administrator\.android\build-cache\7da244ea8be0d4becce2327539c64ade51108faa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Administrator\.android\build-cache\7b80e9f7b79f37ac47ef1f08eb27d523f2bbfaac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Administrator\.android\build-cache\79b026503e76329a905182380469bf60d3d100d4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Administrator\.android\build-cache\94adb223e2b1324d8756ff680343b0684b92f4f8\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Administrator\.android\build-cache\992d010b8cd6886770c888e8b9be498d802e86a6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Administrator\.android\build-cache\1e834a2cd82ebf12e6bc5cbbab80e144ff809710\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.android\build-cache\e1c31953a31a62214986facf0d7856b1b8c179c8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.android\build-cache\2fa77d5720533c981f1217b31fd2ae65303952b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.android\build-cache\ccfff666410ffc9b94b58c6fa2db55cb2d6d33d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\30c9d7900f3bf1e2b7c3c8da31f8eb114ee60d68\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.android\build-cache\33b8af215841792f2fcfead0f87262a77284a52f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\9295d8dde43be768f4414d66c4efef276a0a479a\output\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\Administrator\.android\build-cache\b02ccc4212ca11af932dfc0c6c871dd0110cb447\output\AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:34:19-55
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:38:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Administrator\Desktop\TensorFlowLiteDemo\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE

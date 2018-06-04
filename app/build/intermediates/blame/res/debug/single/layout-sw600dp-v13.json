@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TensorFlowLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7da244ea8be0d4becce2327539c64ade51108faa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\tensorFlow\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7da244ea8be0d4becce2327539c64ade51108faa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

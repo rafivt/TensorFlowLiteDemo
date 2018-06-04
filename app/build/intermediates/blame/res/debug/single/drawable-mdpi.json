@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TensorFlowLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TensorFlowLiteDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\tensorFlow\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\tensorFlow\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TensorFlowLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TensorFlowLiteDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\tensorFlow\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\tensorFlow\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    }
+]
