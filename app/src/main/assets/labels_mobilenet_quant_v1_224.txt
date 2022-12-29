@@ -412,7 +412,7 @@ analog clock
 apiary
 apron
 ashcan
-assault rifle
+
 backpack
 bakery
 balance beam
@@ -464,7 +464,7 @@ breastplate
 broom
 bucket
 buckle
-bulletproof vest
+
 bullet train
 butcher shop
 cab
@@ -490,7 +490,7 @@ cellular telephone
 chain
 chainlink fence
 chain mail
-chain saw
+
 chest
 chiffonier
 chime
@@ -582,7 +582,7 @@ grand piano
 greenhouse
 grille
 grocery store
-guillotine
+
 hair slide
 hair spray
 half track
@@ -595,7 +595,7 @@ hard disc
 harmonica
 harp
 harvester
-hatchet
+
 holster
 home theater
 honeycomb
@@ -656,7 +656,7 @@ milk can
 minibus
 miniskirt
 minivan
-missile
+
 mitten
 mixing bowl
 mobile home
@@ -679,7 +679,7 @@ muzzle
 nail
 neck brace
 necklace
-nipple
+
 notebook
 obelisk
 oboe
@@ -690,7 +690,7 @@ organ
 oscilloscope
 overskirt
 oxcart
-oxygen mask
+
 packet
 paddle
 paddlewheel
@@ -742,7 +742,7 @@ potter's wheel
 power drill
 prayer rug
 printer
-prison
+
 projectile
 projector
 puck
@@ -762,8 +762,8 @@ reflex camera
 refrigerator
 remote control
 restaurant
-revolver
-rifle
+
+
 rocking chair
 rotisserie
 rubber eraser
